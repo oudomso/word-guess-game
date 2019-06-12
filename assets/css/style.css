@@ -5,6 +5,7 @@ body {
   font-family: Helvetica, sans-serif;
   margin-left:80px;
   margin-right:80px;
+	background-size: cover;
 }
 
 h1 {
